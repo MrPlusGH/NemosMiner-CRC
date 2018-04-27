@@ -1,2 +1,2 @@
-# NemosMiner-CRC
-This repository is storing NemosMiner CRC
+# NPlusMiner-CRC
+This repository is storing NPlusMiner CRC
